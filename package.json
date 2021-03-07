@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_basic",
+  "version": "1.0.0",
+  "description": "The nodejs basic project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Sam Henrick",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
